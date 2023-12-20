@@ -11,6 +11,8 @@
 		663C26F82B2F6C42004C9BD7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663C26F72B2F6C42004C9BD7 /* ContentView.swift */; };
 		663C26FA2B2F6C44004C9BD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 663C26F92B2F6C44004C9BD7 /* Assets.xcassets */; };
 		663C26FD2B2F6C44004C9BD7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 663C26FC2B2F6C44004C9BD7 /* Preview Assets.xcassets */; };
+		663C27042B2F8112004C9BD7 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663C27032B2F8112004C9BD7 /* CircleImage.swift */; };
+		663C27062B2F827B004C9BD7 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663C27052B2F827B004C9BD7 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		663C26F72B2F6C42004C9BD7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		663C26F92B2F6C44004C9BD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		663C26FC2B2F6C44004C9BD7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		663C27032B2F8112004C9BD7 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		663C27052B2F827B004C9BD7 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				663C26F52B2F6C42004C9BD7 /* swiftui_testApp.swift */,
 				663C26F72B2F6C42004C9BD7 /* ContentView.swift */,
+				663C27032B2F8112004C9BD7 /* CircleImage.swift */,
+				663C27052B2F827B004C9BD7 /* MapView.swift */,
 				663C26F92B2F6C44004C9BD7 /* Assets.xcassets */,
 				663C26FB2B2F6C44004C9BD7 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				663C27042B2F8112004C9BD7 /* CircleImage.swift in Sources */,
+				663C27062B2F827B004C9BD7 /* MapView.swift in Sources */,
 				663C26F82B2F6C42004C9BD7 /* ContentView.swift in Sources */,
 				663C26F62B2F6C42004C9BD7 /* swiftui_testApp.swift in Sources */,
 			);
